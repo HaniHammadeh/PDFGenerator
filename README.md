@@ -2,9 +2,9 @@
 A Tool to create a protected pdf with watermark
 
 ## code example:
-
+```
 > python ./pdfGenerator.py -f "firstname" -u "username" -p "password" -o "outputfile" e "ebcryptionpassword" -t "templatefile" 
-
+```
 ## Parameters:
 ```
 -f, --firstname: The user first name is used as part of the greeting message
